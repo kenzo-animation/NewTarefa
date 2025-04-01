@@ -1,0 +1,19 @@
+{
+    "name": "kenzo.santos/new-tarefa",
+    "require-dev": {
+        "slim/slim": "^4.14",
+        "slim/psr7": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "KenzoSantos\\NewTarefa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kenzo",
+            "email": "kenzo.santos@alunos.sc.senac.br"
+        }
+    ],
+    "require": {}
+}
